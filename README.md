@@ -1,6 +1,6 @@
 ![alt text](image.png)
 
-## Capture The Flag (Cyber Security)
+## Cybersecurity Challenges & CTFs
 This repo contains Results, Writeups and Tools for Cybersecurity Capture-The-Flag Events that I have competed in. 
 
 ### Disclosure:
@@ -18,14 +18,18 @@ Some CTFs / Challenges below will be missing writeups. This can be due to me not
 ### ***2024***
 | Name | Start Date | Duration | Solo / Team Name | Results | Writeups |
 |--|--|--|--|--|--|
-| Huntress CTF 2024 | 10/01/2024 | 31d | 5 dogs in a trenchcoat | **??** (out of ??) | TBD |
-| RSTCon 2024 | 09/13/2024 | 44hr | 🐺 / Dark Wolf Solutions, LLC | **2nd** (out of 347) | - |
-| n00bz CTF 2024 | 08/02/2024 | 48hr | The Woobies | **51st** (out of 1237) | - |
-| Level Effect 2024 CTF | 06/28/2024 | 21d | ***Solo*** | **25th** (out of 901) | - |
-| USCC 2024 Eastern CTF | 06/07/2024 | 4.5hr | Random Team of 4 | **9th** (out of 11) | - |
+| **Huntress CTF 2024** | 10/01/2024 | 31d | 5 dogs in a trenchcoat | **50th** (out of 3445) | [View](2024/huntress-ctf-2024/README.md) |
+| **RSTCon 2024** | 09/13/2024 | 44hr | 🐺 / Dark Wolf Solutions, LLC | **2nd** (out of 347) | - |
+| **n00bz CTF 2024** | 08/02/2024 | 48hr | The Woobies | **51st** (out of 1237) | - |
+| **Level Effect 2024 CTF** | 06/28/2024 | 21d | ***Solo*** | **25th** (out of 901) | - |
+| **USCC 2024 Eastern CTF** | 06/07/2024 | 4.5hr | Random Team of 4 | **9th** (out of 11) | - |
 
 ### ***Non-CTF Challenges & Writeups***
 | Name | Finish Date | Description | Finished? | Writeups |
 |--|--|--|--|--|
-| PwnedLabs | N/A | On-Demand Cloud Purple Team Challenges | N | - |
-| PicoCTF | N/A | On-demand CTF-style challenges | N | - |
+| **Big IAM Challenge (Wiz)** | N/A | Cloud Security Style CTF | N | Soon |
+| **Flaws.cloud** | N/A | AWS Security Challenges | N | Soon |
+| **PwnedLabs** | N/A | On-Demand Cloud Purple Team Challenges | N | * |
+| **PicoCTF** | N/A | On-demand CTF-style challenges | N | Soon |
+
+**\*** = Author(s) request no public writeups
