@@ -21,9 +21,7 @@ Celebrating Cybersecurity Awareness Month 2024!
   - [Linden](https://github.com/JordanLinden)
   - [Oshikuru](https://jjolley91.github.io/blog/)
   - [CilantroToast](https://github.com/Sil3ntgh0st)
-  - [Pir00t](https://ultimacybr.co.uk/hctf23_main/)
-
-
+  - [Pir00t](https://ultimacybr.co.uk/hctf24_main/)
 
 ### Event Review:
 Coming off the heels of Hurricane Helene (loss of power/water/internet), I had totally forgotten the Huntress CTF was coming up. I was invited by my good friend [@JordanLinden](https://github.com/JordanLinden) to join his team of extremely talented folks. With a wide range of challs from easy & beginner friendly to incredibly hard, it really has something for everyone. 
@@ -31,8 +29,7 @@ Coming off the heels of Hurricane Helene (loss of power/water/internet), I had t
 ### Teammate Writeups:
 For additional writeups and details, check out the writeups from my teammates:
 
-- [@jjolley91](https://jjolley91.github.io/blog/)
-- [@Pir00t](https://ultimacybr.co.uk/hctf23_main/)
+- [@Pir00t](https://ultimacybr.co.uk/hctf24_main/)
 
 # Writeups
 Click on any of the writeup links below to read that individual writeup. Items that are not hyperlinked have no current writeup. This may be due to complexity or time, you should check out my team's writeups (if applicable) for more insight. Although I try to group them logically, they are not guarenteed to appear in any particular order.
@@ -106,19 +103,19 @@ Click on any of the writeup links below to read that individual writeup. Items t
 
 ### Warmups
 - [Cattle](warmups/cattle.md)
-- Finders Fee
+- [Finders Fee](warmups/finders-fee.md)
 - I Can't SSH
 - [MatryoshkaQR](warmups/matryoshkaqr.md)
-- Mystery
+- [Mystery](warmups/mystery.md)
 - [Read The Rules](warmups/read-the-rules.md)
 - [Technical Support](warmups/technical-support.md)
-- The Void
+- [The Void](warmups/the-void.md)
 - [Too Many Bits](warmups/too-many-bits.md)
 - [TXT Message](warmups/txt-message.md)
-- Typo
+- [Typo](warmups/typo.md)
 - [Unbelievable](warmups/unbelievable.md)
-- [Whamazon](warmupS/whamazon.md)
-- Zulu
+- [Whamazon](warmups/whamazon.md)
+- [Zulu](warmups/zulu.md)
 
 ### Web
 - HelpfulDesk

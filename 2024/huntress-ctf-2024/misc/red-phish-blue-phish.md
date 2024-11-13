@@ -64,7 +64,7 @@ Below was the successful attempt (original attempt created by Oshikuru):
 
 The period `.` on the last line was use telling the server that the `DATA` section was done. When you hit enter immediately or shortly after it should return the flag (as shown). Every line that begins with a number (220, 250, 354), which are status codes, are responses from the server after submitting the line(s) above it. 
 
-### Becuase I'm Extra
+### Because I'm Extra
 
 After the flag was validated, we were discussing the chall and I wondered if the content of the email mattered at all. We had discussed if possibly there was some sort of LLM on the other end evaluating our emails for urgency, etc. I was specifically curious so I jumped back into the terminal and tried again and I came up with the following hilarious example.
 

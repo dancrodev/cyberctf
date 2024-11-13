@@ -5,7 +5,7 @@
 # MatryoshkaQR (Warmups)
 Part of the Huntress CTF 2024
 
-#### Description
+### Description
 
 `Wow! This is a big QR code! I wonder what it says...?`
 
